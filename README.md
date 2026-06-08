@@ -1,45 +1,49 @@
 # 👋 Hi, I'm Mathieu (@MathieuLussier)
 
-Welcome to my GitHub profile! I'm a versatile developer with a passion for building everything from modern web applications to complex system-level software and game tools.
+Welcome to my GitHub profile! I am a highly versatile **Full-Stack Developer & Systems Engineer** with extensive experience building everything from modern web applications to complex, low-level infrastructure tooling.
 
 ## 🚀 About Me
 
-- 🔭 I enjoy working across the full stack and exploring various languages and architectures.
-- 💻 My expertise spans from high-level web technologies (**TypeScript**, **Node.js**, **Angular**, **React**) to backend ecosystems (**C#**, **Java**, **Ruby**) and low-level programming (**C++**).
-- 🐳 I frequently use **Docker** for containerization and microservices.
-- ✨ I'm always looking to learn new technologies and build fun, interactive projects.
+- 🔭 I work across the entire stack, managing both frontend user experiences and critical backend/systems infrastructure.
+- 💻 My day-to-day involves writing highly scalable applications in **TypeScript/JavaScript**, building robust backends in **Node.js, Ruby, C#, and Java**, and designing system-level integrations.
+- ⚙️ Beyond web development, I have a strong background in **Networking & DevOps**—building custom DNS agents, PBX clusters, LDAP/Active Directory integrations, and RADIUS automation.
+- 🐳 I rely heavily on **Docker** for containerizing microservices and ensuring reliable deployments.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Expertise
 
 ### 🌐 Web & Full-Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-### ⚙️ Backend & Systems
+### ⚙️ Backend, Systems & Infrastructure
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## 🌟 Featured Public Projects
+## 🌟 What I Build (Featured Work)
 
-### 🛠️ [node-api-template](https://github.com/MathieuLussier/node-api-template)
-A clean, robust microservice API template built with **TypeScript** and **Node.js**.
+While many of my largest projects are private, my work spans across several domains:
 
-### 📱 [MEANPostApp](https://github.com/MathieuLussier/MEANPostApp)
-A full-stack web application for content posting, built with the **MEAN stack** (MongoDB, Express, Angular, Node) and containerized with **Docker**.
+### 📡 Systems & Network Engineering
+- **Infrastructure Tools:** Custom DNS agents, automated DHCP lease synchronization (Kea/PostgreSQL), and Tacacs/RADIUS config automation.
+- **Telecom:** Full-stack PBX UI and backend cluster management.
+- **Identity:** Node.js LDAP integrations for Samba and Windows Active Directory.
 
-### ⛺ [YelpCamp](https://github.com/MathieuLussier/YelpCamp)
-A web application for discovering and reviewing camping spots.
+### 💻 Complex Web Applications
+- **Enterprise Platforms:** Massive full-stack applications (like *ChronodiskLab* and *Nagano*) handling millions of lines of code across JS, Ruby, PHP, and HTML/SCSS.
+- **Real-Time Applications:** Multiplayer games (like *Multiplayer Chess Arena* and *Washergames*) utilizing WebSockets, React, and strict server-side authority.
+- **Microservices:** Clean, scalable API architectures and ASP.NET Core applications (*PostShare*).
 
-### 🎯 [qo0-base](https://github.com/MathieuLussier/qo0-base) ⭐ 4
-An internal base/template written in **C++** and **C** for CS:GO.
-
-### 🎮 Browser Games & Fun
-Check out my smaller interactive projects like [Patap](https://github.com/MathieuLussier/Patap), [Snake](https://github.com/MathieuLussier/Snake), and [FlappyBird](https://github.com/MathieuLussier/flappybird).
+### 🎮 Low-Level & Gaming
+- **Game Tooling:** Projects written in Java, C#, and C++ for internal tooling, game scripting, and automation.
 
 ---
-*Always excited to code, learn, and collaborate!* 🚀
+*Always excited to tackle complex problems, optimize infrastructure, and build awesome software!* 🚀
